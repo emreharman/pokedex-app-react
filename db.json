@@ -1,0 +1,51 @@
+{
+  "pokemons": [
+    {
+      "id": "1",
+      "name": "Bulbasaur",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+      "height": 0,
+      "weight": 0,
+      "hp": 45,
+      "attack": 49,
+      "defense": 35,
+      "speed": 45,
+      "type_ids": [
+        "1"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Pikachu",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+      "height": 0,
+      "weight": 0,
+      "hp": 45,
+      "attack": 49,
+      "defense": 35,
+      "speed": 45,
+      "type_ids": [
+        "3",
+        "4"
+      ]
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "name": "grass"
+    },
+    {
+      "id": "2",
+      "name": "poison"
+    },
+    {
+      "id": "3",
+      "name": "water"
+    },
+    {
+      "id": "4",
+      "name": "psychic"
+    }
+  ]
+}
